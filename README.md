@@ -1,2 +1,2 @@
 # proyectos-backend
-Aquí estarán todas las actividades realizadas en el curso de backend básico
+Aquí se encuentra la actividad Catálogo de películas que se realizó para el curso de backend
